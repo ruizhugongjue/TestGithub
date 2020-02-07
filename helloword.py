@@ -1,1 +1,2 @@
-print("hello word")
+print("hello mast")
+print("add hello word1")
