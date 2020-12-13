@@ -3,4 +3,4 @@ import sys
 sys.callstats()
 print('123')
 
-print('123')
+print('1234')
